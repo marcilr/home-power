@@ -1,0 +1,11 @@
+#.gitignore
+# Created Fri 17 Jul 2020 09:44:49 AM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+hydro/
+solar/
+solar-windows/
+wind/
