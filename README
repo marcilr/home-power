@@ -7,3 +7,6 @@ Filelist
 ========
 links.txt
   Home power related links
+
+manifest
+ Manifest file for use by resync script
