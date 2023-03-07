@@ -13,3 +13,9 @@ links.txt
 
 manifest
  Manifest file for use by resync script
+
+solar/
+  Solar power
+
+solar-windows/
+  Solar windows
